@@ -28,6 +28,29 @@
 
 <body>
 
+		<div main-head>
+	
+		<div Nav-Bar>
+		
+		</div>
+		
+		<div Second-Row>
+		
+			<div logo>			</div>
+			<div search>		</div>
+			<div social-links>	</div>
+		
+		</div>
+		
+		
+		<div menu-bar>
+	
+			<div manu>	</div>
+			<div cart>	</div>
+	
+		</div>
+	</div>
+
     <!-- Navigation -- >
 	
 	<div>
