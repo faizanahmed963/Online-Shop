@@ -12,14 +12,14 @@
 
 	<title>Welcome - Online Shopping</title>
 	
-	<!-- Bootstrap CSS -->
+	<!-- Bootstrap CSS -- >
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	
-	<!-- Custom CSS -->
+	<!-- Custom CSS -- >
     <link href="css/shop-homepage.css" rel="stylesheet">
 	<link href="css/header.css" rel="stylesheet">
 	
- 
+ -->
  
  
 	
@@ -28,12 +28,12 @@
 
 <body>
 
-    <!-- Navigation -->
+    <!-- Navigation -- >
 	
 	<div>
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
+            <!-- Brand and toggle get grouped for better mobile display -- >
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
@@ -43,7 +43,7 @@
                 </button>
                 <a class="navbar-brand" href="/">Online Shopping</a>
             </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
+            <!-- Collect the nav links, forms, and other content for toggling -- >
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
@@ -61,17 +61,17 @@
         <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
       </ul>
             </div>
-            <!-- /.navbar-collapse -->
+            <!-- /.navbar-collapse -- >
         </div>
-        <!-- /.container -->
+        <!-- /.container -- >
     </nav>
 
 	</div>
 	
 	
+	<!--
 	
-	
-	<!-- Header -->
+	<!-- Header -- >
 	<div>
 	<header class="header" id="header" role="banner">
 	
@@ -148,13 +148,13 @@
   
   </div>
 	
-	<!-- jQuery -->
+	<!-- jQuery -- >
     <script src="js/jquery.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
+    <!-- Bootstrap Core JavaScript -- >
     <script src="js/bootstrap.min.js"></script>
 	
-	
+	-->
 	
 </body>
 
