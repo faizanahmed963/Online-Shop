@@ -56,19 +56,46 @@
 		
 		</div>
 		
-		<div Second-Row>
+		<div class="Second-Row">
 		
-			<div logo>			</div>
-			<div search>		</div>
-			<div social-links>	</div>
+			<div class="logo">			
+				<a href="index.php"><img id="logo" src="images/logo.png" /></a>
+			</div>
+			
+			<div class="cart">
+				  <table class="shopping-cart">
+					  <tr>
+						<th class="first">Photo</th>
+						<th class="second">Qty</th>
+						<th class="third">Product</th>
+						<th class="fourth">Line Total</th>
+						<th class="fifth">&nbsp;</th>
+					  </tr>
+					
+				  </table>
+			</div>
+			
+			<div class="search">
+			
+			
+				<form>
+					<input class="search-bar" type="text" name="search" placeholder="Search..">
+					<input class="button" type="submit" name ="search" value="Search" />
+				</form>
+			</div>
+			
+			
+			
 		
-		</div>
+		
+		</div>	
+			
+			
 		
 		
 		<div menu-bar>
 	
 			<div manu>	</div>
-			<div cart>	</div>
 	
 		</div>
 		
