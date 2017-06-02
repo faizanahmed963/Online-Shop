@@ -185,10 +185,10 @@ li.dropdown {
 	width:auto;
 	height:auto;
     float: right;
-	padding:13px;
+	padding:19px;
     color: #282828;
-	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.4);
-	-moz-box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+	/*-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.4);
+	-moz-box-shadow: 0 2px 4px rgba(0,0,0,0.4);*/
 }
 
 .button {
@@ -237,6 +237,43 @@ li.dropdown {
 		----- Start -----
 
 */
+
+.manu-bar
+{
+	height:auto;
+	margin:auto;
+    width: 75%;
+}
+
+#manu
+{
+	margin:auto;
+	float:left;
+}
+
+#manu li
+{
+	list-style:none;
+	display:inline;
+}
+
+
+#manu a
+{
+	text-decoration:none;
+	color:black;
+	padding:11px;
+	margin:5px;
+	font-size:18px;
+	font-family:COMIC SANS MS;
+}
+
+#manu a:hover
+{
+	
+	font-weight:bolder;
+	
+}
 
 /*
 

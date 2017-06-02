@@ -93,9 +93,17 @@
 			
 		
 		
-		<div menu-bar>
+		<div class="manu-bar">
 	
-			<div manu>	</div>
+			<ul id="manu">
+				
+					<li> <a href="index.php">Home</a> </li>
+					<li> <a href="#">Manu</a> </li>
+					<li> <a href="#">Manu</a> </li>
+					<li> <a href="#">About Us</a> </li>
+					<li> <a href="#">Contact Us</a> </li>
+				
+				</ul>
 	
 		</div>
 		
