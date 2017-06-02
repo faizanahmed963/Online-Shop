@@ -238,27 +238,27 @@ li.dropdown {
 
 */
 
-.manu-bar
+.menu-bar
 {
 	height:auto;
 	margin:auto;
     width: 75%;
 }
 
-#manu
+#menu
 {
 	margin:auto;
 	float:left;
 }
 
-#manu li
+#menu li
 {
 	list-style:none;
 	display:inline;
 }
 
 
-#manu a
+#menu a
 {
 	text-decoration:none;
 	color:black;
@@ -268,7 +268,7 @@ li.dropdown {
 	font-family:COMIC SANS MS;
 }
 
-#manu a:hover
+#menu a:hover
 {
 	
 	font-weight:bolder;
