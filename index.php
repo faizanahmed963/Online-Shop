@@ -35,6 +35,17 @@
 	<?php include 'body.php' ?>
 	
 	
+	<!-- Footer -->
+	  <hr>
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Faizan Ahmed</p>
+                </div>
+            </div>
+        </footer>
+
+	
 	<!-- jQuery -->
     <script src="js/jquery.js"></script>
 
