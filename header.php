@@ -8,6 +8,7 @@
 				<li><a href="#contact">Contact</a></li>
 				<li><a href="#about">About</a></li>
 				
+				<!--
 				<li class="dropdown">
 						<a href="javascript:void(0)" class="dropbtn">Dropdown</a>
 							<div class="dropdown-content">
@@ -16,6 +17,8 @@
 								<a href="#">Link 3</a>
 							</div>
 				</li>
+				-->
+				
 				
 				<li class="right"><a href="#sinin">Sign In</a></li>
 				<li class="right"><a href="#sinup">Sign Up</a></li>
