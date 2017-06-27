@@ -2,6 +2,7 @@
 	<div class="container">
 
         <div class="row">
+		
 
             <div class="col-md-3">
                 <p class="lead">By Category</p>
@@ -10,9 +11,16 @@
                     <a href="#" class="list-group-item">Category 2</a>
                     <a href="#" class="list-group-item">Category 3</a>
                 </div>
+		
+                <p class="lead">By Brands</p>
+                <div class="list-group">
+                    <a href="#" class="list-group-item">Brand 1</a>
+                    <a href="#" class="list-group-item">Brand 2</a>
+                    <a href="#" class="list-group-item">Brand 3</a>
+                </div>
 			</div>
-			
-			
+
+		
 			<div class="col-md-9">
 
                 <div class="row carousel-holder">

@@ -38,7 +38,7 @@
 	<!-- Footer -->
 	  <hr>
         <footer>
-            <div class="row">
+            <div class="row" style="background-color: #f5f5f5;">
                 <div class="col-lg-12">
                     <p>Copyright &copy; Faizan Ahmed</p>
                 </div>
