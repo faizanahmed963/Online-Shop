@@ -4,7 +4,6 @@ body {margin: 0;}
 {
 	width:100%;
 	height:auto;
-	margin:auto;
 	
 }
 
@@ -56,6 +55,7 @@ ul.topnav li a.active
 
 ul.topnav li.right {float: right;}
 
+/*
 li a, .dropbtn {
     display: inline-block;
     color: gray;
@@ -67,6 +67,7 @@ li a, .dropbtn {
 li a:hover, .dropdown:hover .dropbtn {
     color: white;
 }
+
 
 li.dropdown {
     display: inline-block;
@@ -94,7 +95,7 @@ li.dropdown {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-
+*/
 
 
 @media screen and (max-width: 600px){
@@ -129,7 +130,7 @@ li.dropdown {
 	height:auto;
 	margin:auto;
     width: 75%;
-    padding: 10px;
+  
 }
 
 
@@ -183,7 +184,7 @@ li.dropdown {
 .shopping-cart
 {
 	width:auto;
-	height:auto;
+	height:50px;
     float: right;
 	padding:19px;
     color: #282828;
@@ -247,6 +248,7 @@ li.dropdown {
 
 #menu
 {
+	
 	margin:auto;
 	float:left;
 }
@@ -272,7 +274,7 @@ li.dropdown {
 {
 	
 	font-weight:bolder;
-	
+	border-top: 4px solid #000;
 }
 
 /*
